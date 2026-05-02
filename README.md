@@ -7,7 +7,6 @@ cd <project-folder>
 
 Install dependencies:
 
-pip install -r requirements.txt
 Environment Setup
 
 Create .env file:
